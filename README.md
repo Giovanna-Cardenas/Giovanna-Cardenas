@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋🏼 Introducing Myself
 
-<!--
-**Giovanna-Cardenas/Giovanna-Cardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Giovanna. I am a recent MSU Denver graduate with a love for working with data!
 
-Here are some ideas to get you started:
+#### 📋 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Welcome to my portfolio, where I showcase my [projects.](https://www.example.com)
+
+#### 🛠️ Tools
+
+   ➣ Language: SQL, Python
+  
+   ➣ Database: MySQL 
+  
+#### 🔗 Connect with Me
+
+[Linkedin](https://www.https://www.linkedin.com/in/giovannacardenas/)
