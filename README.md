@@ -1,6 +1,6 @@
 ## 👋🏼 Introducing Myself
 
-Hello, I'm Giovanna. I am a recent MSU Denver graduate with a love for working with data!
+Hello, my name is Giovanna Cardenas. I am a recent MSU Denver graduate with a love for working with data!
 
 #### 📋 Projects
 
