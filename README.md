@@ -5,13 +5,13 @@ Hello, my name is Giovanna Cardenas. I am a recent MSU Denver graduate with a lo
 #### 📋 Projects
 
 
-Welcome to my portfolio, where I showcase my [projects.](https://www.example.com)
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/Giovanna-Cardenas/Portfolio-Guide)
 
 #### 🛠️ Tools
 
-   ➣ Language: SQL, Python
+   ➣ Language: Python, SQL, PL/SQL
   
-   ➣ Database: MySQL 
+   ➣ Database: Oracle 
   
 #### 🔗 Connect with Me
 
