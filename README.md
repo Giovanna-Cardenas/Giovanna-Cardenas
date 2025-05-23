@@ -1,6 +1,6 @@
 ## 👋🏼 Introducing Myself
 
-Hello, my name is Giovanna Cardenas. I am a recent MSU Denver graduate a with a degree in Business Intelligence and a love for working with data!
+Hello, my name is Giovanna Cardenas. I am a recent MSU Denver graduate with a degree in Business Intelligence and a love for working with data!
 
 #### 📋 Projects
 
